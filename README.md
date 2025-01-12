@@ -42,19 +42,6 @@ Feel free to explore my repositories and projects below:
 
 ---
 
-## 📈 Progress by Language
-
-| Language           | Progress                                      |
-|--------------------|----------------------------------------------|
-| **Java Projects**  | ![40%](https://progress-bar.dev/40?label=Java&style=flat) |
-| **Python Projects**| ![35%](https://progress-bar.dev/35?label=Python&style=flat) |
-| **C# Projects**    | ![25%](https://progress-bar.dev/25?label=C%23&style=flat) |
-| **C Projects**     | ![10%](https://progress-bar.dev/10?label=C&style=flat) |
-| **Prolog Projects**| ![5%](https://progress-bar.dev/5?label=Prolog&style=flat) |
-| **SML Projects**   | ![15%](https://progress-bar.dev/15?label=SML&style=flat) |
-
----
-
 ## 💡 Summary
 - **Java Projects**: 🚀 Leading with 40% completion.
 - **Python Projects**: 🐍 Significant progress at 35%.
