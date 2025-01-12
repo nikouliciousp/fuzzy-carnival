@@ -41,8 +41,6 @@ Feel free to explore my repositories and projects below:
 ## 📊 Pie Chart of Project Progress
 ![Pie Chart](https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Java%22%2C%22Python%22%2C%22C%23%22%2C%22C%22%2C%22Prolog%22%2C%22SML%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B40%2C35%2C25%2C10%2C5%2C15%5D%7D%5D%7D%7D)
 
----
-
 ## 💡 Summary
 - **Java Projects**: 🚀 Leading with 40% completion.
 - **Python Projects**: 🐍 Significant progress at 35%.
