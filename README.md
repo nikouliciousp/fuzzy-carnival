@@ -25,7 +25,7 @@ Hello! I am a **Military Officer** in the **Technical Corps** and **Electrical a
 
 ### Current Learning
 
-- **Project Management for Engineering and IT Business**
+- **Project Management for Technology Managers & Engineers**
 
 ## Projects
 
