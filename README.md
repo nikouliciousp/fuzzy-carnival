@@ -36,10 +36,10 @@ Feel free to explore my repositories and projects below:
 
 ### Repository Contribution Breakdown:
 
-- **Java Projects**: ![40%](https://progress-bar.dev/40?label=40%25&style=flat)
-- **Python Projects**: ![35%](https://progress-bar.dev/35?label=35%25&style=flat)
-- **C# Projects**: ![25%](https://progress-bar.dev/25?label=25%25&style=flat)
-- **C Projects**: ![10%](https://progress-bar.dev/10?label=10%25&style=flat)
-- **Prolog Projects**: ![5%](https://progress-bar.dev/5?label=5%25&style=flat)
-- **SML Projects**: ![15%](https://progress-bar.dev/15?label=15%25&style=flat)
+![Pie Chart](https://quickchart.io/chart?c={type:'pie',data:{labels:['Java','Python','C#','C','Prolog','SML'],datasets:[{data:[40,35,25,10,5,15]}]},options:{plugins:{legend:{position:'bottom'}}}})
+
+| **Java Projects** | **Python Projects** | **C# Projects** | **C Projects** | **Prolog Projects** | **SML Projects** |
+|--------------------|---------------------|------------------|----------------|----------------------|------------------|
+| ![40%](https://progress-bar.dev/40?label=40%25&style=flat) | ![35%](https://progress-bar.dev/35?label=35%25&style=flat) | ![25%](https://progress-bar.dev/25?label=25%25&style=flat) | ![10%](https://progress-bar.dev/10?label=10%25&style=flat) | ![5%](https://progress-bar.dev/5?label=5%25&style=flat) | ![15%](https://progress-bar.dev/15?label=15%25&style=flat) |
+
 
