@@ -35,12 +35,37 @@ Feel free to explore my repositories and projects below:
 # Project Progress Overview
 
 ### Pie Chart of Project Progress
-![Pie Chart](https://quickchart.io/chart?c={type:'pie',data:{labels:['Java','Python','C#','C','Prolog','SML'],datasets:[{data:[40,35,25,10,5,15]}]},options:{plugins:{legend:{position:'bottom'}}}})
+<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Java','Python','C#','C','Prolog','SML'],datasets:[{data:[40,35,25,10,5,15]}]},options:{plugins:{legend:{position:'bottom'}}}}" alt="Pie Chart" width="400"/>
 
 ### Progress by Language
-| **Java Projects**   | **Python Projects**   | **C# Projects**   | **C Projects**   | **Prolog Projects**   | **SML Projects**   |
-|----------------------|-----------------------|-------------------|------------------|------------------------|--------------------|
-| ![40%](https://progress-bar.dev/40?label=40%25&style=flat) | ![35%](https://progress-bar.dev/35?label=35%25&style=flat) | ![25%](https://progress-bar.dev/25?label=25%25&style=flat) | ![10%](https://progress-bar.dev/10?label=10%25&style=flat) | ![5%](https://progress-bar.dev/5?label=5%25&style=flat) | ![15%](https://progress-bar.dev/15?label=15%25&style=flat) |
+
+<table>
+  <tr>
+    <td><strong>Java Projects</strong></td>
+    <td><img src="https://progress-bar.dev/40?label=40%25&style=flat" alt="Java Progress"/></td>
+  </tr>
+  <tr>
+    <td><strong>Python Projects</strong></td>
+    <td><img src="https://progress-bar.dev/35?label=35%25&style=flat" alt="Python Progress"/></td>
+  </tr>
+  <tr>
+    <td><strong>C# Projects</strong></td>
+    <td><img src="https://progress-bar.dev/25?label=25%25&style=flat" alt="C# Progress"/></td>
+  </tr>
+  <tr>
+    <td><strong>C Projects</strong></td>
+    <td><img src="https://progress-bar.dev/10?label=10%25&style=flat" alt="C Progress"/></td>
+  </tr>
+  <tr>
+    <td><strong>Prolog Projects</strong></td>
+    <td><img src="https://progress-bar.dev/5?label=5%25&style=flat" alt="Prolog Progress"/></td>
+  </tr>
+  <tr>
+    <td><strong>SML Projects</strong></td>
+    <td><img src="https://progress-bar.dev/15?label=15%25&style=flat" alt="SML Progress"/></td>
+  </tr>
+</table>
+
 
 
 
