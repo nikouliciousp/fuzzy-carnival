@@ -1,7 +1,5 @@
 ![Background Image](https://github.com/nikouliciousp/nikouliciousp/blob/main/back.png)
 
-# Welcome to My GitHub Profile! 👋
-
 ## About Me
 
 Hello! I am a **Military Officer** in the **Technical Corps** and **Electrical and Computer Engineering**.
