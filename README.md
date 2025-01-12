@@ -36,10 +36,10 @@ Feel free to explore my repositories and projects below:
 
 ### Repository Contribution Breakdown:
 
-- **Java Projects**: ![40%](https://progress-bar.dev/40?label=Java%20Projects&style=pie)
-- **Python Projects**: ![35%](https://progress-bar.dev/35?label=Python%20Projects&style=pie)
-- **C# Projects**: ![25%](https://progress-bar.dev/25?label=C%23%20Projects&style=pie)
-- **C Projects**: ![10%](https://progress-bar.dev/10?label=C%20Projects&style=pie)
-- **Prolog Projects**: ![5%](https://progress-bar.dev/5?label=Prolog%20Projects&style=pie)
-- **SML Projects**: ![15%](https://progress-bar.dev/15?label=SML%20Projects&style=pie)
+- **Java Projects**: ![40%](https://progress-bar.dev/40?label=40%25&style=flat)
+- **Python Projects**: ![35%](https://progress-bar.dev/35?label=35%25&style=flat)
+- **C# Projects**: ![25%](https://progress-bar.dev/25?label=25%25&style=flat)
+- **C Projects**: ![10%](https://progress-bar.dev/10?label=10%25&style=flat)
+- **Prolog Projects**: ![5%](https://progress-bar.dev/5?label=5%25&style=flat)
+- **SML Projects**: ![15%](https://progress-bar.dev/15?label=15%25&style=flat)
 
