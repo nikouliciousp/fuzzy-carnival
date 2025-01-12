@@ -4,8 +4,8 @@
 
 Hello! I am a **Military Officer** in the **Technical Corps** and **Electrical and Computer Engineering**.
 
-- I am passionate about breaking code in my free time (and occasionally fixing it) while continuously embarking on
-  coding adventures! ![Coding Fun](https://github.com/nikouliciousp/nikouliciousp/blob/main/output-onlinegiftools.gif)
+![Coding Fun](https://github.com/nikouliciousp/nikouliciousp/blob/main/output-onlinegiftools.gif) I am passionate about breaking code in my free time (and occasionally fixing it) while continuously embarking on
+  coding adventures!
 
 ## Certifications and Skills
 
