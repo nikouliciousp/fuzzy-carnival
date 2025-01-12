@@ -34,38 +34,31 @@ Feel free to explore my repositories and projects below:
 
 # Project Progress Overview
 
-### Pie Chart of Project Progress
-<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Java','Python','C#','C','Prolog','SML'],datasets:[{data:[40,35,25,10,5,15]}]},options:{plugins:{legend:{position:'bottom'}}}}" alt="Pie Chart" width="400"/>
+## 📊 Pie Chart of Project Progress
+![Pie Chart](https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Java%22%2C%22Python%22%2C%22C%23%22%2C%22C%22%2C%22Prolog%22%2C%22SML%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B40%2C35%2C25%2C10%2C5%2C15%5D%7D%5D%7D%7D)
 
-### Progress by Language
+---
 
-<table>
-  <tr>
-    <td><strong>Java Projects</strong></td>
-    <td><img src="https://progress-bar.dev/40?label=40%25&style=flat" alt="Java Progress"/></td>
-  </tr>
-  <tr>
-    <td><strong>Python Projects</strong></td>
-    <td><img src="https://progress-bar.dev/35?label=35%25&style=flat" alt="Python Progress"/></td>
-  </tr>
-  <tr>
-    <td><strong>C# Projects</strong></td>
-    <td><img src="https://progress-bar.dev/25?label=25%25&style=flat" alt="C# Progress"/></td>
-  </tr>
-  <tr>
-    <td><strong>C Projects</strong></td>
-    <td><img src="https://progress-bar.dev/10?label=10%25&style=flat" alt="C Progress"/></td>
-  </tr>
-  <tr>
-    <td><strong>Prolog Projects</strong></td>
-    <td><img src="https://progress-bar.dev/5?label=5%25&style=flat" alt="Prolog Progress"/></td>
-  </tr>
-  <tr>
-    <td><strong>SML Projects</strong></td>
-    <td><img src="https://progress-bar.dev/15?label=15%25&style=flat" alt="SML Progress"/></td>
-  </tr>
-</table>
+## 📈 Progress by Language
 
+| Language           | Progress                                      |
+|--------------------|----------------------------------------------|
+| **Java Projects**  | ![40%](https://progress-bar.dev/40?label=Java&style=flat) |
+| **Python Projects**| ![35%](https://progress-bar.dev/35?label=Python&style=flat) |
+| **C# Projects**    | ![25%](https://progress-bar.dev/25?label=C%23&style=flat) |
+| **C Projects**     | ![10%](https://progress-bar.dev/10?label=C&style=flat) |
+| **Prolog Projects**| ![5%](https://progress-bar.dev/5?label=Prolog&style=flat) |
+| **SML Projects**   | ![15%](https://progress-bar.dev/15?label=SML&style=flat) |
+
+---
+
+## 💡 Summary
+- **Java Projects**: 🚀 Leading with 40% completion.
+- **Python Projects**: 🐍 Significant progress at 35%.
+- **C# Projects**: 🔧 Working steadily at 25%.
+- **C Projects**: ⚙️ Still early at 10%.
+- **Prolog Projects**: 📘 Just starting at 5%.
+- **SML Projects**: 📚 Under steady development at 15%.
 
 
 
