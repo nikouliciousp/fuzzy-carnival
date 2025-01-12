@@ -4,7 +4,8 @@
 
 Hello! I am a **Military Officer** in the **Technical Corps** and **Electrical and Computer Engineering**.
 
-- I am passionate about writing code in my free time and continuously learning new things about computer science.
+- I am passionate about breaking code in my free time (and occasionally fixing it) while continuously embarking on
+  coding adventures! ![Coding Fun]()
 
 ## Certifications and Skills
 
