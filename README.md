@@ -1,4 +1,4 @@
-![Background Image]("[C:/Users/pirat/Downloads/back.png](https://github.com/nikouliciousp/nikouliciousp/blob/main/back.png)")
+![Background Image](https://github.com/nikouliciousp/nikouliciousp/blob/main/back.png)
 
 # Welcome to My GitHub Profile! 👋
 
