@@ -11,7 +11,7 @@ Hello! I am a **Military Officer** in the **Technical Corps** and **Electrical a
 
 - **Degrees:
   
-School of Electrical and Computer Engineering at the National Technical University of Athens (NTUA).
+  School of Electrical and Computer Engineering at the National Technical University of Athens (NTUA).
 
 ### Full Stack Development:
 
