@@ -4,7 +4,7 @@
 
 # **👋 About Me**
   
-### Hello! I am a **Military Officer** in the **Technical Corps** ✈️ and an **Electrical and Computer Engineer** 🔧💻.
+### Hello! I am a **Military Officer** in the **Technical Corps** 🛠️ and an **Electrical and Computer Engineer** 🔧💻.
 
 ![Coding Fun](https://github.com/nikouliciousp/nikouliciousp/blob/main/m19074.gif)  
 In my free time, I love exploring **coding adventures**: sometimes breaking code ⚡, sometimes fixing it 🛠️, and always learning! 🌱
