@@ -65,6 +65,16 @@ In my free time, I love exploring **coding adventures**: sometimes breaking code
 
 ---
 
+#### **🛠️ DevOps Tools**
+
+<div align="center">
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://docs.docker.com/)
+
+</div>
+
+---
+
 ## **🚀 Current Learning Path**  
 📘 **Project Management for Technology Managers & Engineers**  
 &mdash; Exploring efficient strategies for bridging technical and managerial expertise.
