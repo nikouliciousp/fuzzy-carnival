@@ -109,6 +109,6 @@ Feel free to explore my repositories and favorite projects below:
 
 <div align="center">✨ _Let's build something amazing together!_ ✨  
 
-Connect via [GitHub](https://github.com/nikouliciousp) | [LinkedIn](linkdin.com/in/periklis-nikoulis) | [Email](nikouliciousp@gmail.com).  
+Connect via [GitHub](https://github.com/nikouliciousp) | [LinkedIn](www.linkdin.com/in/periklis-nikoulis) | [Email](nikouliciousp@gmail.com).  
 
 </div>
