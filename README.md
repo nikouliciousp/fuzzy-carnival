@@ -1,4 +1,6 @@
+<div align="center">
 ![Background Image](https://github.com/nikouliciousp/nikouliciousp/blob/main/back.gif)
+</div>
 
 <div align="center">
 
