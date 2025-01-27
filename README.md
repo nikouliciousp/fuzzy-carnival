@@ -98,16 +98,19 @@ Feel free to explore my repositories and favorite projects below:
 
 # **📊 Project Progress Overview**  
 
-### **🎯 Pie Chart of Projects**  
-![Pie Chart](https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Java%22%2C%22Python%22%2C%22C%23%22%2C%22C%22%2C%22Prolog%22%2C%22SML%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B40%2C35%2C25%2C10%2C5%2C15%5D%7D%5D%7D%7D)  
+### **🎯 Pie Chart of Projects  
 
-### **💡 Summary**:  
-- **Java Projects**: 🚀 **40%** complete and progressing well!  
-- **Python Projects**: 🐍 Impressive progress at **35%**.  
-- **C# Projects**: 🔧 Working steadily at **25%**.  
-- **C Projects**: ⚙️ In the early stage (**10% done**).  
-- **Prolog Projects**: 📘 Just starting; **5%** completed.  
-- **SML Projects**: 📚 Steady momentum with **15% progress**.  
+![Pie Chart](https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Java%22%2C%22Python%22%2C%22C%23%22%2C%22JS%22%2C%22C%22%2C%22Prolog%22%2C%22SML%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B28%2C25%2C18%2C11%2C7%2C4%2C7%5D%7D%5D%7D%7D)  
+
+## 💡 Summary  
+- **Java Projects**: 🚀 **28%** complete and progressing well!  
+- **Python Projects**: 🐍 Impressive progress at **25%**.  
+- **C# Projects**: 🔧 Working steadily at **18%**.  
+- **JS Projects**: 🌐 Solid progress with **11%** completed.  
+- **C Projects**: ⚙️ In the early stage (**7% done**).  
+- **Prolog Projects**: 📘 Just starting; **4%** completed.  
+- **SML Projects**: 📚 Steady momentum with **7% progress**.  
+
 
 ---
 
