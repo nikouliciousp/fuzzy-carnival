@@ -102,7 +102,7 @@ Feel free to explore my repositories and favorite projects below:
 
 ![Pie Chart](https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Java%22%2C%22Python%22%2C%22C%23%22%2C%22JS%22%2C%22C%22%2C%22Prolog%22%2C%22SML%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B28%2C25%2C18%2C11%2C7%2C4%2C7%5D%7D%5D%7D%7D)  
 
-## 💡 Summary  
+## **💡 Summary**
 - **Java Projects**: 🚀 **28%** complete and progressing well!  
 - **Python Projects**: 🐍 Impressive progress at **25%**.  
 - **C# Projects**: 🔧 Working steadily at **18%**.  
